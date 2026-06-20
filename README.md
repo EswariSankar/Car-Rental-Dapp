@@ -6,7 +6,6 @@ A decentralized car rental platform built on the Ethereum blockchain. This DApp 
 ![Hardhat](https://img.shields.io/badge/Hardhat-2.25.0-yellow?logo=hardhat)
 ![React](https://img.shields.io/badge/React-19.1.0-61DAFB?logo=react)
 ![Web3.js](https://img.shields.io/badge/Web3.js-4.16.0-F16822?logo=web3dotjs)
-![License](https://img.shields.io/badge/License-MIT-green)
 
 ---
 
@@ -103,10 +102,6 @@ npm install
 ```
 
 ### 3. Setup Environment Variables
-
-```bash
-cp .env.example .env
-```
 
 Edit `.env` and fill in your values:
 
