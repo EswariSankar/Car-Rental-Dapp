@@ -66,3 +66,5 @@ Desktop.ini
 # Hardhat Ignition live deployments (all chains except local)
 ignition/deployments/chain-*
 !ignition/deployments/chain-31337
+
+user_guide.txt
